@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "4ada0236611b14800c3005d46811af94",
+    "hash": "aac36696175f75cfe7c8eb8399eaec55",
     "packages": [],
     "packages-dev": [
         {
@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bcit-ci/CodeIgniter.git",
-                "reference": "5350f056698168061ffde1ba62e8db1715101446"
+                "reference": "934d6d9797f4dadd4e4d05b12bc4d7309fedb6c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/5350f056698168061ffde1ba62e8db1715101446",
-                "reference": "5350f056698168061ffde1ba62e8db1715101446",
+                "url": "https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/934d6d9797f4dadd4e4d05b12bc4d7309fedb6c3",
+                "reference": "934d6d9797f4dadd4e4d05b12bc4d7309fedb6c3",
                 "shasum": ""
             },
             "require": {
@@ -33,7 +33,7 @@
                 "MIT"
             ],
             "description": "The CodeIgniter framework",
-            "time": "2015-01-12 10:33:37"
+            "time": "2015-01-12 13:03:10"
         }
     ],
     "aliases": [],
