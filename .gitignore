@@ -17,6 +17,9 @@ application/logs/*
 composer.phar
 /vendor/
 
+# also exclude composer.lock for up to date CodeIgniter version
+composer.lock
+
 
 # IDE
 /CI_phpStorm.php
