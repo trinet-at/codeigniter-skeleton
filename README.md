@@ -6,9 +6,6 @@ The document root has been moved to the `pubic/` directory, so that `vendor` and
 
 ## How to install:
 * Create a new project with `php composer.phar create-project -s dev trinet/codeigniter-skeleton [path]`
-* copy `environment.php.dist` to `environment.php`
-* copy `application/config/config.php.dist` to `application/config/config.php`
-* copy `application/config/database.php.dist` to `application/config/database.php`
 
 ## Webserver configuration
 The document root has to point to the `public/` directory of the project.
