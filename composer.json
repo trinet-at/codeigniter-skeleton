@@ -5,5 +5,11 @@
 
     "require-dev": {
         "codeigniter/framework": "dev-develop"
+    },
+
+    "scripts": {
+      "post-create-project-cmd": [
+          "skel/post_create_project.sh"
+      ]
     }
 }
