@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "4ada0236611b14800c3005d46811af94",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "codeigniter/framework",
+            "version": "dev-develop",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bcit-ci/CodeIgniter.git",
+                "reference": "5350f056698168061ffde1ba62e8db1715101446"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/5350f056698168061ffde1ba62e8db1715101446",
+                "reference": "5350f056698168061ffde1ba62e8db1715101446",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.4"
+            },
+            "require-dev": {
+                "mikey179/vfsstream": "1.1.*"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "The CodeIgniter framework",
+            "time": "2015-01-12 10:33:37"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "codeigniter/framework": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

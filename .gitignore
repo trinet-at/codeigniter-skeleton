@@ -1,0 +1,27 @@
+# CodeIgniter
+/environment.php
+/application/config/config.php
+/application/config/database.php
+*/config/development
+
+application/cache/*
+!application/cache/index.html
+!application/cache/.htaccess
+
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+
+
+# Composer
+composer.phar
+/vendor/
+
+
+# IDE
+/CI_phpStorm.php
+/DB_active_rec.php
+/my_models.php
+.idea/
+.DS_Store
+/nbproject/

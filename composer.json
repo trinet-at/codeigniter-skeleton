@@ -1,0 +1,9 @@
+{
+    "description" : "CodeIgniter Composer Skeleton",
+    "name" : "trinet/codeigniter-skeleton",
+    "license": "MIT",
+
+    "require-dev": {
+        "codeigniter/framework": "dev-develop"
+    }
+}
