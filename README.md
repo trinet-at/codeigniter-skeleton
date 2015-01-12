@@ -5,7 +5,7 @@ Also, a few enhancements were made for better Git support (e.g. environment as s
 The document root has been moved to the `pubic/` directory, so that `vendor` and `application` data is not accessible via URL.
 
 ## How to install:
-* Create a new project with `php composer.phar create-project trinet/codeigniter-skeleton [path]`
+* Create a new project with `php composer.phar create-project -s dev trinet/codeigniter-skeleton [path]`
 * copy `environment.php.dist` to `environment.php`
 * copy `application/config/config.php.dist` to `application/config/config.php`
 * copy `application/config/database.php.dist` to `application/config/database.php`
